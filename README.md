@@ -18,11 +18,11 @@
 ### 사용된 기술 및 도구
 
 #### 💻 주요 기술
-- Python (Pandas, NumPy, Matplotlib)
+- Python (Pandas, NumPy, Matplotlib,BeautifulSoup)
 
 #### 🛠️ 도구
 - Jupyter Notebook
 <br></br>
 ### 주요 결과물
 - SARIMA 모델로 매출 예측 (R²: 0.91)
-- 소비자 감정 분석을 기반으로 맞춤형 마케팅 전략 제안
+- 

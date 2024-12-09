@@ -21,7 +21,7 @@
 - Python (Pandas, NumPy, Matplotlib,BeautifulSoup)
 
 #### 🛠️ 도구
-<span style="margin-left: 10px;">![Jupyter Logo](https://jupyter.org/assets/homepage/main-logo.svg)</span>
+<img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter Logo" width="25" style="margin-left: 10px;"/>
 
 
 <br></br>

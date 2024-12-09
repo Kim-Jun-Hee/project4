@@ -22,8 +22,6 @@
 
 #### 🛠️ 도구
 <img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/> ![Jupyter Logo](https://jupyter.org/assets/homepage/main-logo.svg)
-<img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/> ![Jupyter Logo](https://jupyter.org/assets/homepage/main-logo.svg)
-<img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/> ![Jupyter Logo](https://jupyter.org/assets/homepage/main-logo.svg)
 
 <br></br>
 ### 주요 결과물

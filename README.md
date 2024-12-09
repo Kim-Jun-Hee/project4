@@ -45,31 +45,31 @@
 - 트렌드와 매출 간의 그랜저 인과관계  
   <img src="rela.png" alt="그랜저 인과관계" width="300" style="display: block; margin: auto;">
 
-### 주요 결과물
+### 🏆 주요 결과물
 
 <table>
   <tr>
-    <td align="center">📈 SARIMA 모델로 매출 예측 (R²: 0.91)</td>
+    <td align="center">🌟 SARIMA 모델로 매출 예측 (R²: 0.91)</td>
     <td align="center">🌟 과자 리뷰를 통한 워드클라우드</td>
   </tr>
   <tr>
     <td>
-      <img src="time.png" alt="SARIMA 예측 결과" width="300">
+      <img src="time.png" alt="SARIMA 예측 결과" width="500">
     </td>
     <td>
-      <img src="review.png" alt="워드클라우드" width="300">
+      <img src="review.png" alt="워드클라우드" width="500">
     </td>
   </tr>
   <tr>
-    <td align="center">📊 언급량과 매출 간의 상관관계</td>
-    <td align="center">🔗 트렌드와 매출 간의 그랜저 인과관계</td>
+    <td align="center">🌟 언급량과 매출 간의 상관관계</td>
+    <td align="center">🌟 트렌드와 매출 간의 그랜저 인과관계</td>
   </tr>
   <tr>
     <td>
-      <img src="corr.png" alt="언급량과 매출 상관관계" width="300">
+      <img src="corr.png" alt="언급량과 매출 상관관계" width="500">
     </td>
     <td>
-      <img src="rela.png" alt="그랜저 인과관계" width="300">
+      <img src="rela.png" alt="그랜저 인과관계" width="500">
     </td>
   </tr>
 </table>

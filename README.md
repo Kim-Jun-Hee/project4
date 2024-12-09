@@ -30,7 +30,7 @@
 ### 사용된 기술 및 도구
 
 #### 💻 주요 기술
-- Python (Pandas, NumPy, Matplotlib,BeautifulSoup)
+- <img src="python-logo.png" alt="Python" width="40"/> **Python** (Pandas, NumPy, Matplotlib,BeautifulSoup)
 
 #### 🛠️ 도구
 <img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/> ![Jupyter Logo](https://jupyter.org/assets/homepage/main-logo.svg)

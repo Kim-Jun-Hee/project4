@@ -33,7 +33,13 @@
 - Python (Pandas, NumPy, Matplotlib,BeautifulSoup)
 
 #### 🛠️ 도구
-<img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/> ![Jupyter Logo](https://jupyter.org/assets/homepage/main-logo.svg)
+<table style="width: 100%; border-collapse: collapse; text-align: center; border: 1px solid white;">
+  <tr>
+    <td style="border: 1px solid white;">
+      <img src="Jupyter.png?raw=true" alt="Jupyter Logo" width="120">
+    </td>
+  </tr>
+</table>
 
 ### 🏆 주요 결과물
 <table>

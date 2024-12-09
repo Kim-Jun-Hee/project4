@@ -5,6 +5,7 @@
 [<img src="portfolio4.png" width="387px" alt="파이썬 데이터 분석 포트폴리오">](파이썬포트폴리오.pdf)</br>
   👉 [발표 자료 다운로드 - pdf](https://github.com/Kim-Jun-Hee/project4/blob/main/파이썬포트폴리오.pdf)  
   👉 [발표 자료 다운로드 - pptx](https://github.com/Kim-Jun-Hee/project4/blob/main/python_port.pptx)
+  <br>들어가셔서 오른쪽 상단에 다운로드 버튼을 누르면 다운 가능합니다. pptx의 경우 미리보기가 안되므로 다운받아야 보실 수 있습니다.</br>
 <br></br>
 
 ### 📂 프로젝트 목표

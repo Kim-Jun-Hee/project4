@@ -23,7 +23,6 @@
 #### 🛠️ 도구
 <img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/> ![Jupyter Logo](https://jupyter.org/assets/homepage/main-logo.svg)
 
-<br></br>
 ### 주요 결과물
 - SARIMA 모델로 매출 예측 (R²: 0.91)
 - 과자 리뷰를 통한 워드클라우드

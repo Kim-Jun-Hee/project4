@@ -3,7 +3,8 @@
 ### 프로젝트 발표 자료
 - 프로젝트의 전체 내용은 아래 PDF 파일에서 확인할 수 있습니다.<br>
 [<img src="portfolio4.png" width="387px" alt="파이썬 데이터 분석 포트폴리오">](파이썬포트폴리오.pdf)</br>
-  👉 [발표 자료 다운로드](https://github.com/Kim-Jun-Hee/project4/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
+  👉 [발표 자료 다운로드(pdf)](https://github.com/Kim-Jun-Hee/project4/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
+  👉 [발표 자료 다운로드(pptx)](https://github.com/Kim-Jun-Hee/project4/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
 <br></br>
 ### 📂 프로젝트 소개 및 목적
 시계열 예측 및 주요 요인 분석을 통해 스낵 시장의 트렌드와 소비자 요구를 파악하여 성장 전략을 제안하고, 기업이 시장 변화에 대응할 수 있는 실질적인 전략을 수립하는 것을 목표로 한 프로젝트입니다.

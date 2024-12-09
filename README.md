@@ -3,7 +3,7 @@
 ### 프로젝트 발표 자료
 - 프로젝트의 전체 내용은 아래 PDF 파일에서 확인할 수 있습니다.<br>
 [<img src="portfolio4.png" width="387px" alt="파이썬 데이터 분석 포트폴리오">](파이썬포트폴리오.pdf)</br>
-  👉 [발표 자료 다운로드(pdf)](https://github.com/Kim-Jun-Hee/project4/blob/main/파이썬포트폴리오.pdf)\n
+  👉 [발표 자료 다운로드(pdf)](https://github.com/Kim-Jun-Hee/project4/blob/main/파이썬포트폴리오.pdf)  
   👉 [발표 자료 다운로드(pptx)](https://github.com/Kim-Jun-Hee/project4/blob/main/python_port.pptx)
 <br></br>
 ### 📂 프로젝트 소개 및 목적

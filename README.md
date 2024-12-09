@@ -36,7 +36,7 @@
 <table style="width: 100%; border-collapse: collapse; text-align: center; border: 1px solid white;">
   <tr>
     <td style="border: 1px solid white;">
-      <img src="Jupyter.png?raw=true" alt="Jupyter Logo" width="120">
+      <img src="Jupyter.png?raw=true" alt="Jupyter Logo" width="100">
     </td>
   </tr>
 </table>

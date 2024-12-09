@@ -21,7 +21,8 @@
 - Python (Pandas, NumPy, Matplotlib,BeautifulSoup)
 
 #### 🛠️ 도구
-&nbsp;![Jupyter Logo](https://jupyter.org/assets/homepage/main-logo.svg)
+<span style="margin-left: 10px;">![Jupyter Logo](https://jupyter.org/assets/homepage/main-logo.svg)</span>
+
 
 <br></br>
 ### 주요 결과물

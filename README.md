@@ -6,7 +6,7 @@
   👉 [발표 자료 다운로드](https://github.com/Kim-Jun-Hee/project4/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
 <br></br>
 ### 📂 프로젝트 소개 및 목적
-스낵 시장의 트렌드와 소비자 요구를 분석하여 시계열 예측 및 주요 요인 분석을 통해 성장 전략을 제안하고, 기업이 시장 변화에 대응할 수 있는 실질적인 전략을 수립하는 것을 목표로 한 프로젝트입니다.
+시계열 예측 및 주요 요인 분석을 통해 스낵 시장의 트렌드와 소비자 요구를 파악하여 성장 전략을 제안하고, 기업이 시장 변화에 대응할 수 있는 실질적인 전략을 수립하는 것을 목표로 한 프로젝트입니다.
 <br></br>
 ### 📅 프로젝트 기간
 - 2024.10.01 ~ 2024.10.23
@@ -21,8 +21,10 @@
 - Python (Pandas, NumPy, Matplotlib,BeautifulSoup)
 
 #### 🛠️ 도구
-- Jupyter Notebook
+- ![Jupyter Logo](https://jupyter.org/assets/homepage/main-logo.svg) Jupyter Notebook
+
 <br></br>
 ### 주요 결과물
 - SARIMA 모델로 매출 예측 (R²: 0.91)
-- 
+- 과자 리뷰를 통한 워드클라우드
+- 언급량과 매출 간의 상관관계

@@ -32,7 +32,11 @@
 <img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/> ![Jupyter Logo](https://jupyter.org/assets/homepage/main-logo.svg)
 
 ### 주요 결과물
-- SARIMA 모델로 매출 예측 (R²: 0.91)
-- 과자 리뷰를 통한 워드클라우드
-- 언급량과 매출 간의 상관관계
-- 트렌드와 매출 간의 그랜저 인과관계
+- SARIMA 모델로 매출 예측 (R²: 0.91)  
+  ![SARIMA 예측 결과](시계열.png)
+- 과자 리뷰를 통한 워드클라우드  
+  ![워드클라우드](리뷰.png)
+- 언급량과 매출 간의 상관관계  
+  ![언급량과 매출 상관관계](상관관계.png)
+- 트렌드와 매출 간의 그랜저 인과관계  
+  ![그랜저 인과관계](인과관계.png)

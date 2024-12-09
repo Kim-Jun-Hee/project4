@@ -4,12 +4,12 @@
 - 프로젝트의 전체 내용은 아래 PDF 파일에서 확인할 수 있습니다.<br>
 [<img src="portfolio4.png" width="387px" alt="파이썬 데이터 분석 포트폴리오">](파이썬포트폴리오.pdf)</br>
   👉 [발표 자료 다운로드 - pdf](https://github.com/Kim-Jun-Hee/project4/blob/main/파이썬포트폴리오.pdf)  
-  👉 [발표 자료 다운로드 - pptx](https://github.com/Kim-Jun-Hee/project4/blob/main/python_port.pptx)
-  📥 **다운로드 안내**  
-  💡 **PDF**: 오른쪽 상단의 다운로드 버튼을 누르면 바로 확인 가능합니다.  
-  ⚠️ **PPTX**: 미리보기가 지원되지 않으므로 반드시 다운로드 후 열어보세요.  
+  👉 [발표 자료 다운로드 - pptx](https://github.com/Kim-Jun-Hee/project4/blob/main/python_port.pptx) 
 <br></br>
-
+📥 **다운로드 안내**  
+💡 **PDF**: 오른쪽 상단의 다운로드 버튼을 누르면 바로 확인 가능합니다.  
+⚠️ **PPTX**: 미리보기가 지원되지 않으므로 반드시 다운로드 후 열어보세요.
+  
 ### 📂 프로젝트 목표
 - 시계열 분석을 통해 스낵 시장의 반기별 매출을 예측하고 미래 시장 흐름을 전망
 - 소비자 리뷰와 블로그 언급량 데이터를 활용해 감정 및 매출 간의 상관관계를 분석

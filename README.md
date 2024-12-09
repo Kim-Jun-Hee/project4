@@ -7,7 +7,7 @@
   👉 [발표 자료 다운로드 - pptx](https://github.com/Kim-Jun-Hee/project4/blob/main/python_port.pptx) 
 <br></br>
 📥 **다운로드 안내**  
-💡 **PDF**: 오른쪽 상단의 다운로드 버튼을 누르면 바로 확인 가능합니다.  
+💡 **PDF**: 오른쪽 상단의 다운로드 버튼을 누르면 다운로드가 가능합니다.  
 ⚠️ **PPTX**: 미리보기가 지원되지 않으므로 반드시 다운로드 후 열어보세요.
 <br></br>
 

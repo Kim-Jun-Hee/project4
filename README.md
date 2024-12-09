@@ -38,6 +38,7 @@
 ### 주요 결과물
 - SARIMA 모델로 매출 예측
   <img src="time.png" alt="SARIMA 예측 결과" width="500">
+  
 - 과자 리뷰를 통한 워드클라우드  
   <img src="review.png" alt="워드클라우드" width="500">
 - 언급량과 매출 간의 상관관계  

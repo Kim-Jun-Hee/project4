@@ -37,12 +37,10 @@
 
 ### 주요 결과물
 - SARIMA 모델로 매출 예측 (R²: 0.91)  
-  <img src="time.png" alt="SARIMA 예측 결과" width="500" style="display: block; margin: auto;">
-
+  <img src="time.png" alt="SARIMA 예측 결과" width="300" style="display: block; margin: auto;">
 - 과자 리뷰를 통한 워드클라우드  
-  <img src="review.png" alt="워드클라우드" width="500" style="display: block; margin: auto;">
-
+  <img src="review.png" alt="워드클라우드" width="300" style="display: block; margin: auto;">
 - 언급량과 매출 간의 상관관계  
-  <img src="corr.png" alt="언급량과 매출 상관관계" width="500">
+  <img src="corr.png" alt="언급량과 매출 상관관계" width="300" style="display: block; margin: auto;">
 - 트렌드와 매출 간의 그랜저 인과관계  
-  <img src="rela.png" alt="그랜저 인과관계" width="500">
+  <img src="rela.png" alt="그랜저 인과관계" width="300" style="display: block; margin: auto;">

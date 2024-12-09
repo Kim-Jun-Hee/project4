@@ -36,7 +36,6 @@
 <img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/> ![Jupyter Logo](https://jupyter.org/assets/homepage/main-logo.svg)
 
 ### 🏆 주요 결과물
-
 <table>
   <tr>
     <td align="center">🌟 SARIMA 모델로 매출 예측 (R²: 0.91)</td>

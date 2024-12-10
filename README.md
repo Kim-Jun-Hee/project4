@@ -33,7 +33,10 @@
 <img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/><img src="python-logo.png" alt="Python" width="40"/> **Python** (BeautifulSoup,sklearn,wordcloud,statsmodels..)
 
 #### 🛠️ 도구
-<img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/> ![Jupyter Logo](https://jupyter.org/assets/homepage/main-logo.svg)
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/>
+  <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter Notebook Logo" width="45" style="display: block;">
+</div>
 
 ### 🏆 주요 결과물
 <table>
